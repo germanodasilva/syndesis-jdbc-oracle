@@ -1,0 +1,10 @@
+{
+  "schemaVersion" : "v1",
+  "name" : "JDBC Driver Library for Oracle",
+  "description" : "Syndesis Extension for adding a JDBC Driver for oracle",
+  "extensionId" : "io.syndesis.extensions:syndesis-library-jdbc-driver",
+  "version" : "1.0.0",
+  "tags" : [ "jdbc-driver" ],
+  "uses" : 0,
+  "extensionType" : "Libraries"
+}
